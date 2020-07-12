@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CMAA POC Android</string>
+    <string name="loading_text">Please wait...</string>
+    <string name="change_password_view_title">Change Password</string>
+    <string name="settings_view_title">Settings</string>
+    <string name="message_login_success">Login success</string>
+    <string name="user_id">User Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_message_enter_user_id">Please enter user id</string>
+    <string name="error_message_enter_pwd">Please enter password</string>
+</resources>

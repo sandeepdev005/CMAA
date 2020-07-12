@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_margin">10dp</dimen>
+    <dimen name="medium_margin_top">10dp</dimen>
+    <dimen name="medium_margin">10dp</dimen>
+    <dimen name="separator_height">2dp</dimen>
+</resources>
